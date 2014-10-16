@@ -5,7 +5,7 @@ import android.text.TextWatcher;
 import android.widget.TextView;
 
 /**
- * Created by april.tang on 2014/10/16.
+ * Created by hon on 2014/10/16.
  */
 public abstract class CardTextWatcher implements TextWatcher {
     //银行卡格式处理，如：0000 1234 4567 7894 999
