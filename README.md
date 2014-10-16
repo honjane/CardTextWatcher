@@ -2,7 +2,10 @@ CardTextWatcher
 ===============
 
 CardTextWatcher 继承了 TextView的TextWatcher，具有TextWatcher的所有功能，同时针对现行银行，封装了银行卡格式
-使用说明： 和TextWatcher用法一样，在txt.addTextChangedListener(new CardTextWatcher(textView){ @Override public void onBeforeTextChanged(CharSequence s, int start, int count, int after) {
+使用说明： 和TextWatcher用法一样，在
+txt.addTextChangedListener(new CardTextWatcher(textView){ 
+@Override
+public void onBeforeTextChanged(CharSequence s, int start, int count, int after) {
 }
 @Override
 public void onAtherTextChanged(CharSequence s, int start, int before, int count) {
