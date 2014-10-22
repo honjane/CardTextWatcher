@@ -22,3 +22,6 @@ CardTextWatcher 继承了 TextView的TextWatcher，具有TextWatcher的所有功
                 }
             }
         });
+
+![image](https://github.com/honjane/CardTextWatcher/blob/card1.0/1%20%281%29.jpg)
+![image](https://github.com/honjane/CardTextWatcher/blob/card1.0/1%20%282%29.jpg)
